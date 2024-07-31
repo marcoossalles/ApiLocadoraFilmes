@@ -12,8 +12,9 @@ namespace LocadoraFilmes.Controllers;
 public class FilmeController : ControllerBase
 {
     private FilmeContext _context;
-    private IMapper mapper;
+    private IMapper _mapper;
 
+    //Estancia FilmeContext para FilmeController
     public FilmeController(FilmeContext context, IMapper mapper)
     {
         _context = context;
@@ -23,7 +24,9 @@ public class FilmeController : ControllerBase
     [HttpPost]
     public IActionResult AdicionaFilme([FromBody] CreateFilmeDto filmeDto )
     {
+
         Filme filme = _mapper.Map<Filme>( filmeDto );
+
         _context.Filmes.Add(filme);
         _context.SaveChanges();
         return CreatedAtAction(nameof(BuscaFilmePorID), new {id = filme.filmeId}, filme);
@@ -41,5 +44,26 @@ public class FilmeController : ControllerBase
        var filme = _context.Filmes.FirstOrDefault(filme => filme.filmeId == id);
         if (filme == null) return NotFound();
         return Ok(filme);
+    }
+
+    [HttpPut("{id}")]
+    public IActionResult AtualizaFilme(int id, [FromBody] UpdateFilmeDto filmeDto) 
+    {
+        var filme = _context.Filmes.FirstOrDefault(filme => filme.filmeId == id);
+        if (filme == null) return NotFound();
+        _mapper.Map(filmeDto, filme);
+        _context.SaveChanges();
+        return NoContent();
+    }
+
+    [HttpDelete("{id}")]
+    public IActionResult DeletaFilme(int id, [FromBody] DeleteFilmeDto filmeDto) 
+    {
+        var filme = _context.Filmes.FirstOrDefault(filme=>filme.filmeId == id); 
+        if (filme == null) return NotFound();
+        _context.Filmes.Remove(filme);
+        _context.SaveChanges();
+        return NoContent();
+        
     }
 }
