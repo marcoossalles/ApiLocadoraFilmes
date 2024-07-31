@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|c:\\users\\marcos antonio\\source\\repos\\locadorafilmes\\locadorafilmes\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|solutionrelative:locadorafilmes\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|c:\\users\\marcos antonio\\source\\repos\\locadorafilmes\\locadorafilmes\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|solutionrelative:locadorafilmes\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|c:\\users\\marcos antonio\\source\\repos\\locadorafilmes\\locadorafilmes\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|solutionrelative:locadorafilmes\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|c:\\users\\marcos antonio\\source\\repos\\locadorafilmes\\locadorafilmes\\data\\dto\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|solutionrelative:locadorafilmes\\data\\dto\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|c:\\users\\marcos antonio\\source\\repos\\locadorafilmes\\locadorafilmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|solutionrelative:locadorafilmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|c:\\users\\marcos antonio\\source\\repos\\locadorafilmes\\locadorafilmes\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CC96349-5B3C-4F1C-AE52-F1572F91601C}|LocadoraFilmes\\LocadoraFilmes.csproj|solutionrelative:locadorafilmes\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Profiles\\FilmeProfile.cs",
+              "RelativeDocumentMoniker": "LocadoraFilmes\\Profiles\\FilmeProfile.cs",
+              "ToolTip": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Profiles\\FilmeProfile.cs",
+              "RelativeToolTip": "LocadoraFilmes\\Profiles\\FilmeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:53:13.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Program.cs",
+              "RelativeDocumentMoniker": "LocadoraFilmes\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Program.cs",
+              "RelativeToolTip": "LocadoraFilmes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:50:46.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Data\\Dto\\CreateFilmeDto.cs",
+              "RelativeDocumentMoniker": "LocadoraFilmes\\Data\\Dto\\CreateFilmeDto.cs",
+              "ToolTip": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Data\\Dto\\CreateFilmeDto.cs",
+              "RelativeToolTip": "LocadoraFilmes\\Data\\Dto\\CreateFilmeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:47:21.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Data\\FilmeContext.cs",
+              "RelativeDocumentMoniker": "LocadoraFilmes\\Data\\FilmeContext.cs",
+              "ToolTip": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Data\\FilmeContext.cs",
+              "RelativeToolTip": "LocadoraFilmes\\Data\\FilmeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:29:05.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "LocadoraFilmes\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "LocadoraFilmes\\Controllers\\FilmeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:22:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "LocadoraFilmes\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\Marcos Antonio\\source\\repos\\LocadoraFilmes\\LocadoraFilmes\\Models\\Filme.cs",
+              "RelativeToolTip": "LocadoraFilmes\\Models\\Filme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:14:05.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
